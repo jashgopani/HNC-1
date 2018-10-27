@@ -11,3 +11,9 @@
     align-items: center;
 }
 
+#customToolbar{
+    margin : 0px;
+    padding : 0px;
+    color : #fff;
+    background : #ccc;
+}
